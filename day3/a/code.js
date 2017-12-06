@@ -36,7 +36,6 @@ var input = (() => {
 			tary = cury;
 		}
 		
-		
 		// move
 		if (dir == 'right') curx += 1;
 		if (dir == 'top') cury -= 1;
