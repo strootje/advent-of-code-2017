@@ -46,6 +46,13 @@ Had some trouble with this one. But it worked out in the end, had to rewrite it 
 
 **Solution b**: My horribly inefficient code came to use here. Just a quick addition of the indexOf to compare and done!
 
+### Day 7
+Nice, finally a recursion exercise.
+
+**Solution a**: The combination of a good setup and a simple recursion method did the trick here!
+
+**Solution b**: Oke, so I kinda cheated this one. I coudn't figure out how to properly group the values so I just printed them all and used ctrl-f to look up the correct value. #sorrynotsorry
+
 
 [aoc17]: http://adventofcode.com/2017/
 [jsf]: http://jsfiddle.net/
