@@ -53,6 +53,13 @@ Nice, finally a recursion exercise.
 
 **Solution b**: Oke, so I kinda cheated this one. I coudn't figure out how to properly group the values so I just printed them all and used ctrl-f to look up the correct value. #sorrynotsorry
 
+### Day 8
+And a classic string parsing. I have some good memories going back to my school time, writing my own file parsers.
+
+**Solution a**: Had some trouble with 'innerHTML' translating '>' => '&gt;'. Once that was done the right answer came from the logs
+
+**Solution b**: Just a bit of jugeling with calculations, move it in the loop, save a list, sort, pick first. #micdrop
+
 
 [aoc17]: http://adventofcode.com/2017/
 [jsf]: http://jsfiddle.net/
