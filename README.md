@@ -67,6 +67,13 @@ Ugh.. stream parsing. This I hate. But let's plough trough it.
 
 **Solution b**: Pfew, just some char counting to add. Done it a minute!
 
+### Day 10
+algorithms with knot tying.. interesting..
+
+**Solution a**: Oke.. fuck trying to string reverse, or array sort. just indexes and replaces.. jeej tmp vars! 
+
+**Solution b**: Oke, it's to late right now to do anscii conversions...
+
 
 [aoc17]: http://adventofcode.com/2017/
 [jsf]: http://jsfiddle.net/
