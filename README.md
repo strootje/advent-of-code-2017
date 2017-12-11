@@ -60,6 +60,13 @@ And a classic string parsing. I have some good memories going back to my school 
 
 **Solution b**: Just a bit of jugeling with calculations, move it in the loop, save a list, sort, pick first. #micdrop
 
+### Day 9
+Ugh.. stream parsing. This I hate. But let's plough trough it.
+
+**Solution a**: Oke, fairly easy, some crappy syntax checking but it worked..
+
+**Solution b**: Pfew, just some char counting to add. Done it a minute!
+
 
 [aoc17]: http://adventofcode.com/2017/
 [jsf]: http://jsfiddle.net/
